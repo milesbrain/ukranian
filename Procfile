@@ -1,0 +1,1 @@
+web: java -jar webapp-runner.jar --port $PORT target/ukranian-1.0-SNAPSHOT.war
